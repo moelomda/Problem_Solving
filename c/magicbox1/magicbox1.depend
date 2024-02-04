@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696855402 source:f:\iti_9months\matrial\week 1\c\assigmnets\magicbox1\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+

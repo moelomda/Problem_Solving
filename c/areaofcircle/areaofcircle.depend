@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697477379 source:f:\iti_9months\matrial\week 1\c\assigmnets\areaofcircle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+

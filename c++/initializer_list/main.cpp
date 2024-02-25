@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-cclass variables {
+class variables {
 private:
     int a;
     int b;
